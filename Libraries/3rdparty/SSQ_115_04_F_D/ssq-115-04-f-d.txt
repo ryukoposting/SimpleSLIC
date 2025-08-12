@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-24092019-098494";"";
+"REFERENCE";"SSQ-115-04-F-D";"";
+"NUMBER_OF_POSITIONS";"15";"";
+"SERIES";"SSQ";"";
+"LEADS_TYPE";"04";"";
+"TraceParts.PartTitle";"SSQ - .100"" Tiger Buy™ Socket Strip, Square Tail";"";
+"SUPPLIER";"Samtec";"";
+"DESIGN";".100'' Tiger Buy™ Socket Strip, Square Tail SSQ-115-04-F-D";"";
+"TraceParts.InstanceId";"10-24092019-0984948SGUYDXBCUWFS1G5E60PY5JV";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.7";"";
